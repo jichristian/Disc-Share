@@ -1,0 +1,156 @@
+		body {
+				height: 1050px;
+				background: linear-gradient(to top left, #ffccff 9%, #99ccff 82%)
+			}
+
+		h1 {
+				font-family: 'Karla', sans-serif;
+				font-size: 200%;
+				font-weight: bold;
+				letter-spacing: 4px;
+				text-align: left;
+				padding-left: 30px;
+			}
+ 
+ 
+		h2 {
+				font-family: arial, sans-serif;
+				font-size: 200%;
+				font-weight: bold;
+				letter-spacing: 1px;
+				text-align: center;
+				border-right: 3px solid;
+				border-left: 3px solid;
+				border-top: 3px solid;
+				border-bottom: 3px solid;
+				width: 410px;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				padding-left: 20px;
+				padding-bottom: 20px;
+				margin-left: 35%;
+				margin-right: 35%;
+				margin-bottom: 5%;
+			}
+
+		h3 {
+				font-family: 'Raleway', sans-serif;
+				font-size: 250%;
+				font-weight: bold;
+				text-align: center;
+				letter-spacing: 2px;
+			}
+
+		h4 {
+				font-family: 'Karla', sans-serif;
+				font-size: 120%;
+				text-align: center;
+				font-style: italic;
+			}
+			
+		h5 {
+				font-family: 'Raleway', sans-serif;
+				font-size: 150%;
+				font-weight: bold;
+				text-align: center;
+				letter-spacing: 2px;
+		}
+		
+		h6 {
+				font-family: arial, sans-serif;
+				font-size: 400%;
+				letter-spacing: 2px;
+				margin-left: 20%;
+				margin-bottom: 3%;
+				
+		
+		}
+		
+		h7 {
+				font-family: 'Karla', sans-serif;
+				font-size: 250%;
+				margin-left: 25%;
+				margin-right: 50%;
+				font-weight: bold;
+			}
+		
+		.title1 {
+				font-family: georgia, sans-serif;
+				font-size: 200%;
+				letter-spacing: 3px;
+				text-align: left;
+				margin-left: 20%;
+				margin-right: 20%;
+			}
+			
+		.title2 {
+				font-family: 'Roboto', sans-serif;
+				font-size: 120%;
+				font-weight: light;
+				font-style: italic;
+				text-align: left;
+				margin-left: 20%;
+				margin-right: 20%;
+			}
+			
+		.content {
+				font-family: 'Karla', sans-serif;
+				font-size: 95%;
+				text-align: left;
+				font-color: #000000;
+				margin-left: 20%;
+				margin-right: 20%;
+				line-height: 2.5em;
+			}
+			
+		.catalog {
+				font-family:'Karla', sans-serif;
+				font-size: 110%;
+				text-align: left;
+				margin-left: 28%;
+				font-style: italic;
+				line-height: 1em;
+		}
+		
+		a.ex1:hover, a.ex1:active {
+							       color: #defaff;
+		}
+		
+		a:hover {
+			color: #defaff;	
+		}
+		
+		.footer {
+				font-family: 'Karla', sans-serif;
+				font-size: 100%;
+				font-weight: bold;
+				text-align: center;
+				padding-top: 300px;
+				padding-bottom: 20px;
+			}
+
+		.navigation {
+				font-family: 'Karla', sans-serif;
+				font-style: italic;
+				height: 210px;
+				width: 210px;
+				z-index: 1;
+				top: 0;
+				left: 0;
+				overflow-y: hidden;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				padding-left: 30px;
+			}
+
+		.navigation a {
+				padding: 6px 8px 6px 8px;
+				text-decoration: none;
+				font-size: 150%;
+				color: #818181;
+				display: block;
+			}
+
+		.navigation a:hover {
+				color: #defaff;
+			}
